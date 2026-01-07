@@ -1,0 +1,5 @@
+{
+  "name": "Dutch City Notetaker",
+  "description": "A web application to look up Dutch cities, save them, and add personal notes for future visits.",
+  "requestFramePermissions": []
+}
